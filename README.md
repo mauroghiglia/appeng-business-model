@@ -4,9 +4,9 @@
 
 This repository documents the business model, operational principles, and delivery framework of **Application Engineering Srl**.
 
-The project describes a hybrid IT consulting approach that connects Italian and EU-based companies with distributed software development teams, ensuring transparency, technical governance, regulatory compliance (GDPR), and effective cross-cultural collaboration.
+It describes a hybrid IT consulting approach that connects Italian and EU-based companies with distributed software development teams, with emphasis on transparency, technical governance, GDPR compliance, and effective cross-cultural collaboration.
 
-It is intended as both internal documentation and a public reference for clients, partners, and collaborators.
+The repository serves both as internal documentation and as a public reference for clients, partners, and collaborators.
 
 ---
 
@@ -29,7 +29,7 @@ To enable ethical, transparent, and technically rigorous cross-border software d
 ## What This Repository Covers
 
 - Business model and value proposition  
-- Engagement and collaboration models  
+- Engagement and delivery models  
 - Technical governance and quality assurance practices  
 - Legal and GDPR considerations in cross-border projects  
 - Practical workflows and operational guidelines  
@@ -38,40 +38,37 @@ To enable ethical, transparent, and technically rigorous cross-border software d
 
 ## Target Audience
 
-- Small and medium Italian / EU companies  
+- Small and medium Italian and EU-based companies  
 - Startups seeking reliable distributed development  
 - Technical partners and subcontractors  
 - Consultants and professionals interested in hybrid delivery models  
 
 ---
 
-## Structure (Work in Progress)
+## Documentation Structure
 
-Positioning:
-- [Vision/Positioning](01-vision/positioning.md)
-- [Vision/Why-this-model](01-vision/why-this-model.md)
+### Vision and Positioning
+- [Positioning](01-vision/positioning.md)  
+- [Why This Model Exists](01-vision/why-this-model.md)
 
-Business model:
-- [Business Model](02-business-model/overview.md)
+### Business Model
+- [Business Model Overview](02-business-model/overview.md)
 
-Delivery Model:
-- [Delivery Model](03-delivery-model/how-we-deliver.md)
+### Delivery Model
+- [How We Deliver](03-delivery-model/how-we-deliver.md)
 
-Technical Governance:
-- [Technical Governance](04-technical-governance/principles.md)
+### Technical Governance
+- [Technical Governance Principles](04-technical-governance/principles.md)
 
-GDPR & Legal
-- [GDPR & Legal](05-gdpr-and-legal/boundaries.md)
-
-/workflows
+### GDPR and Legal
+- [GDPR and Legal Boundaries](05-gdpr-and-legal/boundaries.md)
 
 ---
 
 ## Status
 
-This repository is a living document and will evolve as the business model, market conditions, and regulatory landscape change.
-
-Contributions, discussions, and constructive feedback are welcome.
+This repository is a living document.  
+It will evolve as the business model, regulatory landscape, and operational experience develop.
 
 ---
 
