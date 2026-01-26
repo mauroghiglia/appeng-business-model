@@ -47,11 +47,22 @@ To enable ethical, transparent, and technically rigorous cross-border software d
 
 ## Structure (Work in Progress)
 
-/vision
-/business-model
-/delivery-model
-/technical-governance
-/gdpr-and-legal
+Positioning:
+- [Vision/Positioning](01-vision/positioning.md)
+- [Vision/Why-this-model](01-vision/why-this-model.md)
+
+Business model:
+- [Business Model](02-business-model/overview.md)
+
+Delivery Model:
+- [Delivery Model](03-delivery-model/how-we-deliver.md)
+
+Technical Governance:
+- [Technical Governance](04-technical-governance/principles.md)
+
+GDPR & Legal
+- [GDPR & Legal](05-gdpr-and-legal/boundaries.md)
+
 /workflows
 
 ---
