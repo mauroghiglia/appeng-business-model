@@ -63,6 +63,12 @@ To enable ethical, transparent, and technically rigorous cross-border software d
 ### GDPR and Legal
 - [GDPR and Legal Boundaries](05-gdpr-and-legal/boundaries.md)
 
+## DOCS Folder
+
+### Foundations
+
+- [Observability Vs. monitoring](/docs/foundations/observability-vs-monitoring.md)
+- [Governance & logging](/docs/foundations/governance-and-logging.md)
 ---
 
 ## Status
