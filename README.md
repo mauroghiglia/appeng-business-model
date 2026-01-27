@@ -64,9 +64,19 @@ To enable ethical, transparent, and technically rigorous cross-border software d
 - [GDPR and Legal Boundaries](05-gdpr-and-legal/boundaries.md)
 
 ## DOCS Folder
+### Architecture
+- [GrayLog on VPS](/docs/architecture/graylog-on-vps.md)
+- [Log Pipeline Reference](/docs/architecture/graylog-on-vps.md)
+
+### Case Studies
+[CCP-Like Environment](/docs/case-studies/ccp-like-environment.md)
+
+### Decision making
+- [Build Vs. Buy](/docs/decision-making/build-vs-buy.md)
+- [Tooling by Problem](/docs/decision-making/tooling-by-problem.md)
+- [When not to use a Tool](/docs/decision-making/when-not-to-use-a-tool.md)
 
 ### Foundations
-
 - [Observability Vs. monitoring](/docs/foundations/observability-vs-monitoring.md)
 - [Governance & logging](/docs/foundations/governance-and-logging.md)
 ---
