@@ -75,3 +75,6 @@ It will evolve as the business model, regulatory landscape, and operational expe
 ## License
 
 To be defined.
+
+For professional inquiries or governance engagements:
+office@appeng.ro
