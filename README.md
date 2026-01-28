@@ -48,37 +48,47 @@ To enable ethical, transparent, and technically rigorous cross-border software d
 ## Documentation Structure
 
 ### Vision and Positioning
-- [Positioning](01-vision/positioning.md)  
-- [Why This Model Exists](01-vision/why-this-model.md)
+
+[Positioning](/vision/positioning.md)  
+
+[Why This Model Exists](/vision/why-this-model.md)
 
 ### Business Model
-- [Business Model Overview](02-business-model/overview.md)
+
+[Business Model Overview](/business-model/overview.md)
 
 ### Delivery Model
-- [How We Deliver](03-delivery-model/how-we-deliver.md)
+
+[How We Deliver](/delivery-model/how-we-deliver.md)
 
 ### Technical Governance
-- [Technical Governance Principles](04-technical-governance/principles.md)
+
+[Technical Governance Principles](/technical-governance/principles.md)
 
 ### GDPR and Legal
-- [GDPR and Legal Boundaries](05-gdpr-and-legal/boundaries.md)
 
-## DOCS Folder
+[GDPR and Legal Boundaries](/gdpr-and-legal/boundaries.md)
+
 ### Architecture
-- [GrayLog on VPS](/docs/architecture/graylog-on-vps.md)
-- [Log Pipeline Reference](/docs/architecture/graylog-on-vps.md)
+
+[GrayLog on VPS](/docs/architecture/graylog-on-vps.md)
+[Log Pipeline Reference](/docs/architecture/graylog-on-vps.md)
 
 ### Case Studies
+
 [CCP-Like Environment](/docs/case-studies/ccp-like-environment.md)
 
 ### Decision making
-- [Build Vs. Buy](/docs/decision-making/build-vs-buy.md)
-- [Tooling by Problem](/docs/decision-making/tooling-by-problem.md)
-- [When not to use a Tool](/docs/decision-making/when-not-to-use-a-tool.md)
+
+[Build Vs. Buy](/docs/decision-making/build-vs-buy.md)
+[Tooling by Problem](/docs/decision-making/tooling-by-problem.md)
+[When not to use a Tool](/docs/decision-making/when-not-to-use-a-tool.md)
 
 ### Foundations
-- [Observability Vs. monitoring](/docs/foundations/observability-vs-monitoring.md)
-- [Governance & logging](/docs/foundations/governance-and-logging.md)
+
+[Observability Vs. monitoring](/docs/foundations/observability-vs-monitoring.md)
+[Governance & logging](/docs/foundations/governance-and-logging.md)
+
 ---
 
 ## Status
@@ -92,10 +102,9 @@ It will evolve as the business model, regulatory landscape, and operational expe
 
 To be defined.
 
-For professional inquiries or governance engagements:
-office@appeng.ro
-
 ---
 
 ### Contact
+For professional inquiries or governance engagements:
+
 📫 E-mail: [office@appeng.ro](mailto:office@appeng.ro)
