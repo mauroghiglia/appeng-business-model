@@ -94,3 +94,8 @@ To be defined.
 
 For professional inquiries or governance engagements:
 office@appeng.ro
+
+---
+
+### Contact
+📫 E-mail: [office@appeng.ro](mailto:office@appeng.ro)
