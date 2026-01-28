@@ -8,6 +8,8 @@ It describes a hybrid IT consulting approach that connects Italian and EU-based 
 
 The repository serves both as internal documentation and as a public reference for clients, partners, and collaborators.
 
+🌐 Website: https://appeng.ro
+
 ---
 
 ## Vision
@@ -104,7 +106,32 @@ To be defined.
 
 ---
 
+## About the Author
+
+Independent IT consultant with over 20 years of experience in
+enterprise systems, observability, and log-driven incident analysis.
+
+Worked in and around:
+- Financial market infrastructure (Stock Exchange-like environments)
+- Regulated and audit-sensitive systems
+- Mixed legacy and modern application stacks
+- Budget-constrained enterprise environments
+
+Hands-on experience with:
+- Graylog (centralized, governance-aware logging)
+- Grafana / Loki (metrics-first observability)
+- Dynatrace (integrated APM platforms)
+- Windows / Linux / AS/400 systems
+
+Current focus:
+Designing observability and logging architectures that prioritize
+explainability, governance, and long-term sustainability over tooling hype.
+
+---
+
 ### Contact
 For professional inquiries or governance engagements:
+
+📫 E-mail: [mauro.ghiglia@appeng.ro](mailto:mauro.ghiglia@appeng.ro)
 
 📫 E-mail: [office@appeng.ro](mailto:office@appeng.ro)
